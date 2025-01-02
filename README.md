@@ -6,15 +6,13 @@ The Communication Calendar Application is designed to streamline and manage comm
 # Table of Contents
 Project Overview
 
-Features
+. Features
 
-Installation
+. Installation
 
-Usage
+. Usage
 
-Contributing
-
-License
+. License
 
 # Features
 Admin Management: Manage companies and communication methods.
@@ -28,7 +26,7 @@ Shared Components: Consistent UI elements including header, sidebar, and footer.
 # Project Structure 
 
 
-client/
+client/ 
 └── src/
     ├── components/
     │   ├── admin/
@@ -72,4 +70,7 @@ To start the application locally:
 2. Open your browser and visit http://localhost:3000.
 3. To start the backend :
    use command node server.js
+
+# License
+ This project is licensed under the MIT License. See the LICENSE file for details.
   
