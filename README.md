@@ -1,4 +1,4 @@
-# Calendar-Applicaton
+# Calendar-Applicaton For Communication Tracking
 
 Project Overview
 The Communication Calendar Application is designed to streamline and manage communication methods, frequency, and effectiveness. It features an admin panel for managing communication methods and a user interface for viewing dashboards, notifications, and calendars. The application also provides insightful reports to track communication trends and engagement effectiveness.
@@ -6,13 +6,13 @@ The Communication Calendar Application is designed to streamline and manage comm
 # Table of Contents
 Project Overview
 
-. Features
+* Features
 
-. Installation
+* Installation
 
-. Usage
+* Usage
 
-. License
+* License
 
 # Features
 Admin Management: Manage companies and communication methods.
@@ -68,11 +68,11 @@ To set up the project locally, follow these steps:
 
 # Usage
 To start the application locally:
-1. To start the frontend :
-  use command npm start
+1. To start the frontend: use command npm start
 2. Open your browser and visit http://localhost:3000.
-3. To start the backend :
-   use command node server.js
+3. To start the backend: use command node server.js
+4. open your browser and visit 
+https://localhost:3001. for server
 
 # ScreenShots of this Project
 
