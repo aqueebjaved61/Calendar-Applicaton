@@ -1,0 +1,11 @@
+.calendar-view {
+    padding: 20px;
+  }
+  
+  .event-marker {
+    background-color: #4a90e2;
+    color: white;
+    border-radius: 50%;
+    padding: 2px 5px;
+  }
+  

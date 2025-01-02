@@ -1,0 +1,47 @@
+.company-management {
+    padding: 20px;
+  }
+  
+  .company-form {
+    margin-bottom: 20px;
+  }
+  
+  .company-form input, .company-form textarea {
+    margin: 5px;
+    padding: 10px;
+    width: calc(100% - 30px);
+    display: block;
+    font-size: 16px;
+  }
+  
+  .company-form button {
+    margin: 10px 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
+  .company-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .company-table th, .company-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .company-table th {
+    background-color: #f2f2f2;
+    text-align: left;
+  }
+  
+  .company-table td a {
+    text-decoration: none;
+    color: #3498db;
+  }
+  
+  .company-table td button {
+    margin: 0 5px;
+    padding: 5px 10px;
+  }
+  

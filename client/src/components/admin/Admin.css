@@ -1,0 +1,24 @@
+.admin-container .horizontal-nav ul {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .admin-container .horizontal-nav li {
+    margin-right: 20px;
+  }
+  
+  .admin-container .horizontal-nav a {
+    text-decoration: none;
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+  }
+  
+  .admin-container .horizontal-nav a:hover {
+    background-color: #0056b3;
+  }
+  
+  

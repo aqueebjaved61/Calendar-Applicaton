@@ -1,0 +1,63 @@
+.dashboard {
+  padding: 20px;
+}
+
+.dashboard-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.dashboard-table th, .dashboard-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.highlight-red {
+  background-color: #f8d7da;
+}
+
+.highlight-yellow {
+  background-color: #fff3cd;
+}
+
+.communication-item {
+  position: relative;
+  display: inline-block;
+}
+
+.communication-item:hover .tooltip {
+  visibility: visible;
+}
+
+.tooltip {
+  visibility: hidden;
+  width: 200px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 5px;
+  padding: 5px;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%; /* Position the tooltip above the text */
+  left: 50%;
+  margin-left: -100px; /* Use half of the tooltip width to center it */
+}
+
+.tooltip::after {
+  content: '';
+  position: absolute;
+  top: 100%; /* At the bottom of the tooltip */
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+
+
+
+
+  
