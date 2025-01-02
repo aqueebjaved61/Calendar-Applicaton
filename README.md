@@ -76,15 +76,27 @@ To start the application locally:
 
 ![Communication Calendar - Personal - Microsoft​ Edge 03-01-2025 02_22_59](https://github.com/user-attachments/assets/a3b30bf3-3b4f-406f-9c1a-671aa288b364)
 
+
 ![Communication Calendar - Personal - Microsoft​ Edge 03-01-2025 02_23_13](https://github.com/user-attachments/assets/aec1c391-71bd-4647-a364-5dda43b32c50)
 
-![Communication Calendar - Personal - Microsoft​ Edge ![Communication Calendar - Personal - Microsoft​ Edge 03-01-2025 02_23_32](https://github.com/user-attachments/assets/e544b9b6-69be-4a38-a803-524662eca83a)
 
-![Communication Calendar - Personal - Microsoft​ Edge 03-01-2025 02_23_39](https://github.com/user-attachmen![Communication Calendar - Personal - Microsoft​ Edge 03-01-2025 02_24_07](https://github.c![Communication Calendar - Personal - Microsoft​ Edge 03-01-2025 02_24_25](https://github.com/user-attachments/assets/1dd44d50-9c7e-45b5-a15c-091ed9c3cc60)
+![Communication Calendar - Personal - Microsoft​ Edge 03-01-2025 02_23_23](https://github.com/user-attachments/assets/8c4b9440-2664-4dc7-b294-8b7bd81a30e6)
 
-om/user-a![Communication Calendar - Personal - Microsoft​ Edge 03-01-2025 02_24_17](https://github.com/user-attachments/assets/d006ff34-3700-497b-b2f0-4855b182bcf2)
-ttachments/assets/a15eaad2-44ca-4fe0-bcc8-18c04d580250)
-ts/assets/a35ee2ec-8187-4765-8c93-83d70b6bc36f)
+
+![Communication Calendar - Personal - Microsoft​ Edge 03-01-2025 02_23_32](https://github.com/user-attachments/assets/c28cb85f-077c-47a1-a000-b531e887b7ac)
+
+
+![Communication Calendar - Personal - Microsoft​ Edge 03-01-2025 02_23_39](https://github.com/user-attachments/assets/7555c6ad-7404-4812-8aef-12df79a96806)
+
+
+![Communication Calendar - Personal - Microsoft​ Edge 03-01-2025 02_24_07](https://github.com/user-attachments/assets/e1a4ab06-2d4f-4a90-bb3e-31f921f2255f)
+
+
+![Communication Calendar - Personal - Microsoft​ Edge 03-01-2025 02_24_17](https://github.com/user-attachments/assets/7001553e-e6d6-473f-8893-3e0421c2ca2c)
+
+
+![Communication Calendar - Personal - Microsoft​ Edge 03-01-2025 02_24_25](https://github.com/user-attachments/assets/210626b9-dcca-4042-8aaa-d92650fcd9c7)
+
 
 ![Communication Calendar - Personal - Microsoft​ Edge 03-01-2025 02_24_42](https://github.com/user-attachments/assets/72480dc8-3001-4e2c-bfb1-c6c485279474)
 
