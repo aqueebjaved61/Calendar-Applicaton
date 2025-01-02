@@ -23,11 +23,12 @@ Reports: Generate and view communication frequency reports, engagement effective
 
 Shared Components: Consistent UI elements including header, sidebar, and footer.
 
-# Project Structure 
-
+# Project Structure
 
 client/
+
 └── src/
+
     ├── components/
     │   ├── admin/
     │   │   ├── CompanyManagement.js
@@ -50,7 +51,9 @@ client/
     ├── App.css
     ├── index.js
     └── index.css
+
 server.js
+
 package.json
 
 # Installation
