@@ -27,6 +27,7 @@ Shared Components: Consistent UI elements including header, sidebar, and footer.
 
 # Project Structure 
 
+
 client/
 └── src/
     ├── components/
